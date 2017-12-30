@@ -1,0 +1,3 @@
+a:3:{s:8:"template";s:6:"thrive";s:4:"mods";a:11:{i:0;b:0;s:24:"thrive_layouts_customize";s:8:"1_column";s:18:"nav_menu_locations";a:2:{s:7:"primary";i:2;s:9:"secondary";i:0;}s:29:"thrive_header_menu_background";s:7:"#7cb342";s:24:"thrive_typography_header";s:4:"Lato";s:22:"thrive_typography_body";s:7:"Rosario";s:27:"thrive_typography_font_size";s:2:"16";s:20:"thrive_primary_color";s:7:"#7cb342";s:26:"thrive_primary_color_shade";s:7:"#827717";s:22:"thrive_secondary_color";s:7:"#dce775";s:22:"thrive_user_define_css";s:73:".fmember-member-details .fmember-links a {
+    background: transparent;
+}";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"thrive_footer_copyright";s:58:"&copy; [Your Website Name Here] 2015. All Rights Reserved.";}}

@@ -1,0 +1,49 @@
+
+---Downloaded files---
+The import files for: Thrive Community Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://beta.blockchainbeach.com
+Data file = /home/marchesinij/blockchainbeach.com/wp-content/uploads/2017/12/demo-content-import-file_2017-12-12__04-57-18.xml
+Widget file = /home/marchesinij/blockchainbeach.com/wp-content/uploads/2017/12/demo-widgets-import-file_2017-12-12__04-57-18.json
+Customizer file = /home/marchesinij/blockchainbeach.com/wp-content/uploads/2017/12/demo-customizer-import-file_2017-12-12__04-57-18.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Sidebar : 
+
+bbp_search_widget - Search Forums - Site does not support widget
+(BuddyPress) Groups - Groups - Imported
+(BuddyPress) Members - Members - Imported
+
+BP Sidebar : 
+
+(BuddyPress) Friends - No Title - Imported
+(BuddyPress) Groups - Groups - Imported
+(BuddyPress) Members - Members - Imported
+
+Archives : 
+
+bbp_search_widget - Search Forums - Site does not support widget
+bbp_replies_widget - Recent Replies - Site does not support widget
+(BuddyPress) Members - Members - Imported
+(BuddyPress) Groups - Groups - Imported
+
+Footer : 
+
+Thrive: Featured Member - Featured Member - Imported
+(BuddyPress) Recently Active Members - Recently Active Members - Imported
+Recent Posts - No Title - Imported
+bbp_forums_widget - Forums - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
